@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  Covid-19-
+
+  Created by alanood on 08/12/2021.
+  
+*/
+"Success" = "نجاح";
+"Change the language" = "تغيير اللغة";
+"Setting" = "الاعدادات";
+"Pick Date" = "حجز موعد";
+"Change language" = "تغير اللغة";
+"News" = "الأخبار";
+"Sign out" = "تسجيل الخروج";
+"Profile" = "الملف الشخصي";
+"Search for a country" = "بحث عن دولة";
+"Offline" = "غير متصل";
+"Online" = "متصل";
+"Covid" = "كوفيد";
+"Hospital Covid" = "المراكز الطبية";
+"hospital" = "مركز صحي";
+"My Dates" = "مواعيدي";
+"Enter age" = "العمر";
+"Enter name" = "أسمك";
+"save" = "حفظ";
+"data saved" = "تم حفظ المعلومات";
+"we will contact you " = "الرجاء الحضور في الموعد المحدد";
+"pick For name" = "حجز باسم";
+"Details Your Pick" = "تفاصيل موعدك";
+"To see you details , please scan the QR code" = "قم باظهار QR Code عند المركز الصحي حتى تتمكن من الدخول";
+"Enter your commit" = "استفسارك ..";
+"List Of Commit" = "استفساراتي السابقة";
+"Commits" = "الاستفسارات";
+"Add Commit" = "أضف تعليق";
+"commit has been Saved" = "تم ارسال تعليقك بنجاح";
+
+
+"Saudi Arabia allows all travelers with one dose of COVID-19 vaccine into Kingdom" = "السعودية تسمح لجميع المسافرين بجرعة واحدة من لقاح COVID-19 بدخول المملكة";
+"Saudi Arabia announced on Monday that travelers from all countries will be allowed in if they have received at least one dose of the COVID-19 vaccine inside the Kingdom. According to the Saudi Press Agency (SPA), the General Authority of Civil Aviation sent the new directive to all airlines operating in Saudi Arabia’s airports, which will come into effect from 1:00 a.m. on Saturday, Dec. 4.The circular clarified that direct flights from all countries will be allowed in the country, however, a mandatory three-day institutional quarantine period will be implemented in addition to having received at least one vaccine shot in Saudi Arabia.Airlines are also being advised to educate travelers on the importance of adhering to the precautionary measures implemented by Saudi Arabia's authorities." = "أعلنت المملكة العربية السعودية ، الاثنين ، أنه سيتم السماح للمسافرين من جميع الدول بالدخول في حالة تلقيهم جرعة واحدة على الأقل من لقاح COVID-19 داخل المملكة. التوجيه الجديد لجميع شركات الطيران العاملة في مطارات المملكة العربية السعودية ، والذي سيدخل حيز التنفيذ اعتبارًا من الساعة 1:00 صباحًا يوم السبت 4 ديسمبر ، وأوضح التعميم أنه سيتم السماح برحلات جوية مباشرة من جميع الدول في البلاد ، ومع ذلك ، هناك ثلاث رحلات إلزامية. سيتم تنفيذ فترة الحجر الصحي المؤسسي لمدة يوم بالإضافة إلى تلقي لقاح واحد على الأقل في المملكة العربية السعودية ، كما يتم نصح شركات الطيران بتوعية المسافرين بأهمية الالتزام بالإجراءات الاحترازية التي تنفذها السلطات السعودية.";
+
+
+"Covid: South Africa 'punished' for detecting new Omicron variant" = "كوفيد: جنوب إفريقيا 'تعاقب' لاكتشافها متغير أوميكرون الجديد";
+
+
+"South Africa has complained it is being punished - instead of applauded - for discovering Omicron, a concerning new variant of Covid-19. The foreign ministry made the statement as countries around the world restricted travel from southern Africa as details of the spread emerged. Early evidence suggests Omicron has a higher re-infection risk. The World Health Organization (WHO) said on Friday that the new variant was of concern.Several cases have now been identified in Europe - two in the UK, two in Germany, one in Belgium and another one in Italy, while a suspected case was found in the Czech Republic. Israel, where the new variant has been confirmed, has decided to ban all foreigners from entering the country from midnight Sunday." = "اشتكت جنوب إفريقيا من تعرضها للعقاب - بدلاً من الإشادة - لاكتشافها Omicron ، وهو نوع جديد مقلق من Covid-19. وأصدرت وزارة الخارجية البيان حيث فرضت دول في جميع أنحاء العالم قيودًا على السفر من جنوب إفريقيا مع ظهور تفاصيل الانتشار. تشير الدلائل المبكرة إلى أن Omicron لديه مخاطر أعلى لإعادة العدوى ، وقالت منظمة الصحة العالمية يوم الجمعة أن البديل الجديد كان مثيرًا للقلق ، وقد تم الآن تحديد العديد من الحالات في أوروبا - حالتان في المملكة المتحدة ، واثنتان في ألمانيا ، وواحدة في بلجيكا وواحدة أخرى في إيطاليا ، بينما تم العثور على حالة مشتبه بها في جمهورية التشيك. وقررت إسرائيل ، حيث تم تأكيد البديل الجديد ، منع جميع الأجانب من دخول البلاد اعتبارًا من منتصف ليل الأحد ";
+
+
+"Health authorities report 25 new COVID-19 cases in Saudi Arabia" = "السلطات الصحية تبلغ 25 حالة إصابة جديدة بكوفيد -19 في السعودية";
+
+
+"Covid news – live: Face masks return in England in bid to curb omicron variant, as PM to hold press conference" = "كوفيد نيوز - مباشر: عودة أقنعة الوجه في إنجلترا في محاولة للحد من متغير أوميكرون ، حيث سيعقد رئيس الوزراء مؤتمرًا صحفيًا";
+
+
+"RIYADH: The Ministry of Health reported 25 new confirmed coronavirus disease (COVID-19) cases, 44 critical cases and 29 recoveries in the Kingdom on Monday. The total number of infections in the country reached 549,720, while the recovery tally reached 538,885. One new death was reported, bringing the tally of fatalities in the Kingdom to 8,834. The ministry advised everyone to contact the toll-free number 937 for consultations and inquiries around the clock and to obtain health information and services. Meanwhile, The WHO warned on Monday that omicron variant of coronavirus carries a very high global risk of surges, as more countries reported cases, prompting border closures and reviving worries about the economic recovery from a two-year pandemic. Scientists have said it could take weeks to understand the severity of omicron, which was first identified in southern Africa. Its emergence has caused a strong global reaction, with countries imposing travel curbs and other restrictions, worried that it could spread fast even in vaccinated populations. On Sunday, a South African doctor who was one of the first to suspect a new strain said omicron appeared so far to be producing mild symptoms" = "الرياض: أعلنت وزارة الصحة ، اليوم الاثنين ، عن 25 حالة إصابة مؤكدة جديدة بفيروس كورونا (كوفيد -19) ، و 44 حالة حرجة ، و 29 حالة تعافي في المملكة ، وبلغ إجمالي عدد الإصابات في الدولة 549720 حالة ، فيما بلغ عدد الشفاء 538.885 حالة. وسجلت حالة وفاة جديدة ليرتفع عدد القتلى في المملكة إلى 8834 ، ونصحت الوزارة الجميع بالاتصال بالرقم المجاني 937 للاستشارات والاستفسارات على مدار الساعة وللحصول على المعلومات والخدمات الصحية. يوم الإثنين ، يحمل هذا البديل من فيروس كورونا من omicron خطرًا عالميًا كبيرًا للغاية لحدوث طفرات ، حيث أبلغت المزيد من الدول عن حالات ، مما أدى إلى إغلاق الحدود وإحياء المخاوف بشأن التعافي الاقتصادي من جائحة استمر عامين.وقال العلماء إن الأمر قد يستغرق أسابيع لفهم شدة omicron ، الذي تم تحديده لأول مرة في الجنوب الأفريقي. وقد تسبب ظهوره في رد فعل عالمي قوي ، حيث فرضت البلدان قيودًا على السفر وقيود أخرى ، قلقة من أنه يمكن أن ينتشر بسرعة حتى في السكان الملقحين. يوم الأحد ، قال طبيب من جنوب إفريقيا كان من أوائل الذين اشتبهوا في وجود سلالة جديدة إن عقار أوميكرون يبدو حتى الآن وكأنه ينتج عنه أعراض خفيفة";
+
+
+"The government’s measures to protect against the new omicron variant of coronavirus come into force on Tuesday, with face masks becoming mandatory once again in England’s shops and settings such as post offices, hairdressers and public transport. All travellers returning to the UK will also be required to take a PCR test, and self-isolate until they receive a negative result, as Boris Johnson continues to insist vaccines and boosters remain the best line of defence. There are now 14 confirmed cases of omicron in the UK – five in England and nine in Scotland – after two new cases were found in London over night, and six across Lanarkshire and Glasgow this morning. Anyone who believes they might be a contact of one of these people is being told to self-isolate immediately, regardless of their age or vaccination status. Mr Johnson will address the nation this evening, at around 5pm, in a bid to urge everyone to follow the new rules and “do their bit” to help slow the spread of the new variant. He will also encourage all non-vaccinated members of the public to come forward and get a jab." = "تدخل تدابير الحكومة للحماية من البديل الجديد لفيروس كورونا الجديد من omicron حيز التنفيذ يوم الثلاثاء ، حيث أصبحت أقنعة الوجه إلزامية مرة أخرى في المتاجر والأماكن في إنجلترا مثل مكاتب البريد ومصففي الشعر ووسائل النقل العام. سيُطلب من جميع المسافرين العائدين إلى المملكة المتحدة أيضًا إجراء اختبار تفاعل البوليميراز المتسلسل والعزل الذاتي حتى يتلقوا نتيجة سلبية ، حيث يواصل بوريس جونسون الإصرار على أن اللقاحات والمعززات تظل أفضل خط دفاع. هناك الآن 14 حالة مؤكدة من الأوميكرون في المملكة المتحدة - خمس حالات في إنجلترا وتسع حالات في اسكتلندا - بعد اكتشاف حالتين جديدتين في لندن خلال الليل ، وست حالات في جميع أنحاء لاناركشاير وغلاسكو هذا الصباح. يُطلب من أي شخص يعتقد أنه قد يكون على اتصال بأحد هؤلاء الأشخاص أن يعزل نفسه على الفور ، بغض النظر عن عمره أو حالة التطعيم. سيخاطب السيد جونسون الأمة هذا المساء ، في حوالي الساعة 5 مساءً ، في محاولة لحث الجميع على اتباع القواعد الجديدة و أداء دورهم للمساعدة في إبطاء انتشار البديل الجديد. كما أنه سيشجع جميع أفراد الجمهور غير الملقحين على التقدم والحصول على حقنة.";
