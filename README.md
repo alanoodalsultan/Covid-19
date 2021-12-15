@@ -29,7 +29,7 @@
 | covidPage    | user only <PrivateRoute> | show all countries covid cases                                   |
 | news Page    | user only <PrivateRoute> | read and search in news page                                     |
 | settingsPage | user only <PrivateRoute> |  can book my appointment , change the language , add comment.    |
-| profilepage  | user only <PrivateRoute> | set profile state and image and signout                          |
+| profilepage  | user only <PrivateRoute> | set profile status and image and signout                          |
   
   
 # Components 
@@ -49,7 +49,15 @@
    . auth.signout()
   
   
-  2. 
+ ## 2. settings service
+     . book an appointment 
+     . change the language
+     . add a comment, suggestion or complaint
+  
+  ## 3. profile service
+     . change the image 
+     . change the status 
+     . sign out
  
   
   
