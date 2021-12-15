@@ -1,7 +1,7 @@
 # final-project
 
 # description:
-##covid-19 App is an application that enable users to show all world countries covid cases, show the nearst hospital that can gives covid vaccinations and users can make reservation appointment for vaccination.
+## covid-19 App is an application that enable users to show all world countries covid cases, show the nearst hospital that can gives covid vaccinations and users can make reservation appointment for vaccination.
 
 
 # user stories: 
