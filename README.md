@@ -21,13 +21,6 @@
 4- sign out from app
 
 
-## project
-### project
-##### project 
-
-**project**
-
-
 
 | # component  | # Permissions            | # Behavior.   |
 | :---         |     :---:                |          ---: |
