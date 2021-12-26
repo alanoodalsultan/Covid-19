@@ -65,7 +65,7 @@
 		3A118DDE27562B2200C2FE03 /* NewsDetailsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDetailsScreen.swift; sourceTree = "<group>"; };
 		5E9501307A7C7449DFBFC2A7 /* Pods-Covid-19-.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Covid-19-.release.xcconfig"; path = "Target Support Files/Pods-Covid-19-/Pods-Covid-19-.release.xcconfig"; sourceTree = "<group>"; };
 		CC8B185C6ED0B4B641C5EDA4 /* Pods_Covid_19_.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Covid_19_.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DB91AE97274E8D3F005D9D48 /* Covid-19-.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Covid-19-.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB91AE97274E8D3F005D9D48 /* Covid-19-.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Covid-19-.app"; path = "/Users/alanood/Desktop/final-project/Covid-19- 3 new 4 AA/build/Debug-iphoneos/Covid-19-.app"; sourceTree = "<absolute>"; };
 		DB91AE9A274E8D3F005D9D48 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DB91AE9C274E8D3F005D9D48 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		DB91AE9E274E8D3F005D9D48 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
@@ -217,7 +217,6 @@
 		DB91AE98274E8D3F005D9D48 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DB91AE97274E8D3F005D9D48 /* Covid-19-.app */,
 			);
 			name = Products;
 			path = ..;
