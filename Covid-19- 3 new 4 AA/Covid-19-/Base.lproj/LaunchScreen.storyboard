@@ -16,24 +16,27 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="img8" translatesAutoresizingMaskIntoConstraints="NO" id="QDr-YC-s9C">
-                                <rect key="frame" x="20" y="125" width="374" height="612"/>
-                            </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Covid -19" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rmA-Zl-kkV">
-                                <rect key="frame" x="131" y="661" width="165" height="36"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Covid -19" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rmA-Zl-kkV">
+                                <rect key="frame" x="105" y="681.5" width="204" height="35.5"/>
                                 <fontDescription key="fontDescription" name="Copperplate" family="Copperplate" pointSize="35"/>
                                 <color key="textColor" systemColor="systemOrangeColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="img8" translatesAutoresizingMaskIntoConstraints="NO" id="QDr-YC-s9C">
+                                <rect key="frame" x="20" y="185" width="374" height="464"/>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="rmA-Zl-kkV" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="131" id="6eV-Z1-miF"/>
-                            <constraint firstItem="QDr-YC-s9C" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="81" id="GEL-KJ-9Ye"/>
-                            <constraint firstItem="QDr-YC-s9C" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="Qc7-fS-xUp"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="rmA-Zl-kkV" secondAttribute="trailing" constant="118" id="Xqe-9O-Kvb"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="QDr-YC-s9C" secondAttribute="trailing" constant="20" id="gZK-Bo-C35"/>
+                            <constraint firstItem="rmA-Zl-kkV" firstAttribute="top" secondItem="QDr-YC-s9C" secondAttribute="bottom" constant="32.5" id="1iy-j0-vsT"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="rmA-Zl-kkV" secondAttribute="bottom" constant="145" id="KND-Hn-YKd"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="rmA-Zl-kkV" secondAttribute="trailing" constant="105" id="MmJ-sJ-bOu"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="rmA-Zl-kkV" secondAttribute="bottom" constant="145" id="U0y-dM-6dZ"/>
+                            <constraint firstItem="QDr-YC-s9C" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="gR5-9s-imV"/>
+                            <constraint firstItem="QDr-YC-s9C" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="141" id="gg5-Do-tXu"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="QDr-YC-s9C" secondAttribute="trailing" constant="20" id="s2n-IX-00P"/>
+                            <constraint firstItem="rmA-Zl-kkV" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="105" id="slt-Vr-tHx"/>
                         </constraints>
                     </view>
                 </viewController>

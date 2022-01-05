@@ -63,6 +63,7 @@ class LocationOfHospitals: UIViewController ,CLLocationManagerDelegate, MKMapVie
             locationManger.desiredAccuracy = kCLLocationAccuracyBest
             locationManger.requestAlwaysAuthorization()
             locationManger.startUpdatingHeading()
+           
         }
     }
     @objc func handleCancel() {
