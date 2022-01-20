@@ -22,6 +22,7 @@
 		3A118DDA2756218800C2FE03 /* NewsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A118DD92756218800C2FE03 /* NewsModel.swift */; };
 		3A118DDD2756265400C2FE03 /* NewsCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A118DDC2756265400C2FE03 /* NewsCollectionViewCell.swift */; };
 		3A118DDF27562B2200C2FE03 /* NewsDetailsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A118DDE27562B2200C2FE03 /* NewsDetailsScreen.swift */; };
+		DB2FF483279408490029656B /* Assets1.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB2FF482279408490029656B /* Assets1.xcassets */; };
 		DB91AE9B274E8D3F005D9D48 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB91AE9A274E8D3F005D9D48 /* AppDelegate.swift */; };
 		DB91AE9D274E8D3F005D9D48 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB91AE9C274E8D3F005D9D48 /* SceneDelegate.swift */; };
 		DB91AE9F274E8D3F005D9D48 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB91AE9E274E8D3F005D9D48 /* HomeScreen.swift */; };
@@ -65,7 +66,8 @@
 		3A118DDE27562B2200C2FE03 /* NewsDetailsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDetailsScreen.swift; sourceTree = "<group>"; };
 		5E9501307A7C7449DFBFC2A7 /* Pods-Covid-19-.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Covid-19-.release.xcconfig"; path = "Target Support Files/Pods-Covid-19-/Pods-Covid-19-.release.xcconfig"; sourceTree = "<group>"; };
 		CC8B185C6ED0B4B641C5EDA4 /* Pods_Covid_19_.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Covid_19_.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DB2FF430277F10470029656B /* Covid-19-.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Covid-19-.app"; path = "/Users/alanood/Desktop/final-project/Covid-19- 3 new 4 AA/build/Debug-iphoneos/Covid-19-.app"; sourceTree = "<absolute>"; };
+		DB2FF431278581140029656B /* Covid-19-.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Covid-19-.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB2FF482279408490029656B /* Assets1.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets1.xcassets; sourceTree = "<group>"; };
 		DB91AE9A274E8D3F005D9D48 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DB91AE9C274E8D3F005D9D48 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		DB91AE9E274E8D3F005D9D48 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
@@ -217,6 +219,7 @@
 		DB91AE98274E8D3F005D9D48 /* Products */ = {
 			isa = PBXGroup;
 			children = (
+				DB2FF431278581140029656B /* Covid-19-.app */,
 			);
 			name = Products;
 			path = ..;
@@ -225,6 +228,7 @@
 		DB91AE99274E8D3F005D9D48 /* Covid-19- */ = {
 			isa = PBXGroup;
 			children = (
+				DB2FF482279408490029656B /* Assets1.xcassets */,
 				DB91AE98274E8D3F005D9D48 /* Products */,
 				DB91AEB7274F11F5005D9D48 /* Color */,
 				DB91AEC3274F8B13005D9D48 /* TabBar */,
@@ -308,7 +312,7 @@
 			);
 			name = "Covid-19-";
 			productName = "Covid-19-";
-			productReference = DB2FF430277F10470029656B /* Covid-19-.app */;
+			productReference = DB2FF431278581140029656B /* Covid-19-.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -354,6 +358,7 @@
 				DB91AEAF274E8E80005D9D48 /* GoogleService-Info  in Resources */,
 				DB91AEC2274F8976005D9D48 /* GoogleService-Info.plist in Resources */,
 				DB91AEA7274E8D42005D9D48 /* LaunchScreen.storyboard in Resources */,
+				DB2FF483279408490029656B /* Assets1.xcassets in Resources */,
 				DB91AEA4274E8D42005D9D48 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -585,8 +590,9 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 027BCB6F8837B265DD2FD5D5 /* Pods-Covid-19-.debug.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9XU6P6VK9D;
@@ -613,8 +619,9 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5E9501307A7C7449DFBFC2A7 /* Pods-Covid-19-.release.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9XU6P6VK9D;

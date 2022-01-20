@@ -26,7 +26,7 @@ class LoginScreen: UIViewController {
     
     let illustrationImage: UIImageView = {
         let image = UIImageView()
-        image.image = UIImage(named: "img3")
+        image.image = UIImage(named: "Img9")
         image.contentMode = .scaleAspectFill
         image.clipsToBounds = true
         return image
@@ -183,7 +183,7 @@ class LoginScreen: UIViewController {
                     
                 }
             }else{
-                // Ma feh ay error fra7 nd5l al user llt6be8...
+               
                 guard let user = results?.user else {return}
                 
                 self.db.collection("Profiles").document(user.uid).setData([

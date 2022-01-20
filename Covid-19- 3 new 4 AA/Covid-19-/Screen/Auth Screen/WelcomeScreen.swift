@@ -23,7 +23,7 @@ class WelcomeScreen: UIViewController {
     
     let illustrationImage: UIImageView = {
         let image = UIImageView()
-        image.image = UIImage(named: "img3")
+        image.image = UIImage(named: "Img9")
         image.contentMode = .scaleAspectFill
         image.clipsToBounds = true
         return image

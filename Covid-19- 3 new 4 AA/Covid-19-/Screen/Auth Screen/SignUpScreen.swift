@@ -9,6 +9,7 @@
 import UIKit
 import FirebaseAuth
 import FirebaseFirestore
+
 class SignupScreen: UIViewController {
     
     let db = Firestore.firestore()
